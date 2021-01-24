@@ -1,0 +1,36 @@
+* {
+	margin: 0px;
+	padding: 0px;
+} 
+
+
+body {
+	font-size: 120%;
+	background: #B1BF9B;}
+
+.header {
+	width: 20%;
+	margin: 80px auto 0px;
+	color: wheat;
+	background: #8FD22D;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+.btn {
+	padding: 15px;
+	font-size: 15px;
+	color: white;
+	background: #8FD22D;
+	border: none;
+	border-radius: 5px;  
+
+	
+}
+
+
+
+
